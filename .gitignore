@@ -1,0 +1,6 @@
+# Temp, swap and backup files
+*.swp
+*~
+
+# Custom
+jquery.js
